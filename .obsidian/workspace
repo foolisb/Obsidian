@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "组内培训/wirless power.md",
-            "mode": "source",
+            "file": "foundation/字符串.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/wirless power.md",
+                "file": "foundation/字符串.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/wirless power.md"
+                "file": "foundation/字符串.md"
               }
             }
           },
@@ -108,6 +108,7 @@
   },
   "active": "60d0c4cbbbf11d3b",
   "lastOpenFiles": [
+    "foundation/字符串.md",
     "组内培训/wirless power.md",
     "foundation/system()函数.md",
     "foundation/fork.md",
@@ -116,7 +117,6 @@
     "foundation/JTAG.md",
     "foundation/Pasted image 20220512113417.png",
     "foundation/Pasted image 20220512112835.png",
-    "foundation/Pasted image 20220512101744.png",
-    "flowchart/blackbox.svg"
+    "foundation/Pasted image 20220512101744.png"
   ]
 }
