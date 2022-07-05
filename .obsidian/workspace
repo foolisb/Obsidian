@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "748435fbc150fae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a06bd11a9d81cd8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "组内培训/wirless power.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2421bf5ccc7e4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "390567943564597e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5790f6e7796837",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df18b5276982297a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e53b9d73d7905f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef9ed8de39c31f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9fd92a6f6e36a8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "组内培训/wirless power.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "652c34110fd7037e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "组内培训/wirless power.md"
+              }
+            }
+          },
+          {
+            "id": "563ca28c50fb8a16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275,
+    "collapsed": true
+  },
+  "active": "4a06bd11a9d81cd8",
+  "lastOpenFiles": [
+    "组内培训/wirless power.md",
+    "kanban/notion.md",
+    "foundation/JTAG.md",
+    "foundation/Pasted image 20220512113417.png",
+    "foundation/Pasted image 20220512112835.png",
+    "foundation/Pasted image 20220512101744.png",
+    "foundation/fork.md",
+    "flowchart/blackbox.svg",
+    "work task/blackbox_record.md",
+    "f56c5502783ddc1787624f466bd3f77d.png.md"
+  ]
+}
