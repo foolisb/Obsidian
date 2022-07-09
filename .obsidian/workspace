@@ -91,7 +91,7 @@
             }
           },
           {
-            "id": "563ca28c50fb8a16",
+            "id": "ea246baa85edc24e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -109,8 +109,8 @@
   "active": "60d0c4cbbbf11d3b",
   "lastOpenFiles": [
     "组内培训/ecc内存原理.md",
-    "foundation/字符串.md",
     "组内培训/wirless power.md",
+    "foundation/字符串.md",
     "foundation/system()函数.md",
     "foundation/fork.md",
     "kanban/notion.md",
