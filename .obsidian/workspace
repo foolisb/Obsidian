@@ -9,6 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "组内培训/wirless power.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e04f83db136c3fbf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "foundation/字符串.md",
             "mode": "preview",
             "source": true
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "foundation/字符串.md",
+                "file": "组内培训/wirless power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "foundation/字符串.md"
+                "file": "组内培训/wirless power.md"
               }
             }
           },
@@ -108,8 +120,8 @@
   },
   "active": "60d0c4cbbbf11d3b",
   "lastOpenFiles": [
-    "foundation/字符串.md",
     "组内培训/wirless power.md",
+    "foundation/字符串.md",
     "foundation/system()函数.md",
     "foundation/fork.md",
     "kanban/notion.md",
