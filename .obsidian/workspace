@@ -10,29 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "组内培训/ecc内存原理.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "02e1b629684a397c",
+        "id": "6b9ca201fb82c378",
         "type": "leaf",
         "state": {
           "type": "reveal-preview-view",
           "state": {}
-        }
-      },
-      {
-        "id": "4d6e09c38ffe86ae",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "组内培训/ecc内存原理.md",
-            "mode": "source",
-            "source": true
-          }
         }
       }
     ],
@@ -128,10 +116,10 @@
   },
   "active": "e04f83db136c3fbf",
   "lastOpenFiles": [
+    "组内培训/wirless power.md",
     "组内培训/ecc内存原理.md",
     "conflict-files-obsidian-git.md",
     "foundation/字符串.md",
-    "组内培训/wirless power.md",
     "foundation/system()函数.md",
     "foundation/fork.md",
     "kanban/notion.md",
