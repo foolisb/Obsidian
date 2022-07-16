@@ -10,9 +10,17 @@
           "type": "markdown",
           "state": {
             "file": "组内培训/ecc内存原理.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
+        }
+      },
+      {
+        "id": "02e1b629684a397c",
+        "type": "leaf",
+        "state": {
+          "type": "reveal-preview-view",
+          "state": {}
         }
       },
       {
