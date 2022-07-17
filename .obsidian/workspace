@@ -11,7 +11,7 @@
           "state": {
             "file": "组内培训/ecc内存检测/ecc内存原理.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       },
@@ -120,15 +120,15 @@
   },
   "active": "b384e5cb42f91ed6",
   "lastOpenFiles": [
+    "组内培训/ecc内存检测/Pasted image 20220717223245.png",
+    "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Pasted image 20220717222814.png",
     "组内培训/ecc内存检测/Pasted image 20220717222807.png",
-    "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/wirless power.md",
     "组内培训/ecc内存检测/Untitled Diagram.svg",
     "组内培训/ecc内存检测/Pasted image 20220717201005.png",
     "组内培训/ecc内存检测/Pasted image 20220717201245.png",
     "组内培训/ecc内存检测/Pasted image 20220717201302.png",
-    "Pasted image 20220717194406.png",
-    "组内培训/ecc内存检测/Pasted image 20220717185943.png"
+    "Pasted image 20220717194406.png"
   ]
 }
