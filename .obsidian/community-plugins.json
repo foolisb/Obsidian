@@ -1,10 +1,10 @@
 [
   "calendar",
-  "highlightr-plugin",
   "obsidian-kanban",
   "sliding-panes-obsidian",
   "drawio-obsidian",
   "obsidian-git",
   "obsidian-advanced-slides",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "highlightr-plugin"
 ]
