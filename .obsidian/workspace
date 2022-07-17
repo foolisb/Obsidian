@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "55853e621144d18b",
+        "id": "2611f33ce5259c90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "组内培训/ecc内存检测/ecc内存原理.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "163e2736893dcc16",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "组内培训/ecc内存检测/ecc内存原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "组内培训/ecc内存检测/ecc内存原理.md"
               }
             }
           },
@@ -118,8 +106,10 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "163e2736893dcc16",
+  "active": "2611f33ce5259c90",
   "lastOpenFiles": [
+    "组内培训/ecc内存检测/03BE38A0.png",
+    "组内培训/ecc内存检测/047FD2A3.png",
     "conflict-files-obsidian-git.md",
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存原理.md",
@@ -127,8 +117,6 @@
     "foundation/字符串.md",
     "foundation/system()函数.md",
     "foundation/fork.md",
-    "kanban/notion.md",
-    "README.md",
-    "foundation/JTAG.md"
+    "kanban/notion.md"
   ]
 }
