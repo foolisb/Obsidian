@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e53b9d73d7905f30",
@@ -121,15 +120,15 @@
   },
   "active": "b384e5cb42f91ed6",
   "lastOpenFiles": [
+    "组内培训/ecc内存检测/Pasted image 20220717201005.png",
+    "组内培训/ecc内存检测/Pasted image 20220717201245.png",
+    "组内培训/ecc内存检测/Pasted image 20220717201302.png",
+    "组内培训/ecc内存检测/ecc内存原理.md",
     "Pasted image 20220717194406.png",
     "组内培训/ecc内存检测/Pasted image 20220717185943.png",
-    "组内培训/ecc内存检测/ecc内存原理.md",
     "Pasted image 20220717184504.png.md",
     "组内培训/ecc内存检测/Pasted image 20220717184500.png",
     "Pasted image 20220717184504.png",
-    "组内培训/ecc内存检测/Pasted image 20220717181937.png",
-    "组内培训/ecc内存检测/电磁干扰.png",
-    "组内培训/wirless power.md",
-    "未命名.md"
+    "组内培训/ecc内存检测/Pasted image 20220717181937.png"
   ]
 }
