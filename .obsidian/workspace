@@ -16,12 +16,12 @@
         }
       },
       {
-        "id": "8f6006bd5da62d6a",
+        "id": "ebf644392754e159",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "组内培训/wirless power.md",
+            "file": "组内培训/ecc内存检测/ecc内存原理.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/wirless power.md",
+                "file": "组内培训/ecc内存检测/ecc内存原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/wirless power.md"
+                "file": "组内培训/ecc内存检测/ecc内存原理.md"
               }
             }
           },
@@ -118,8 +118,9 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "8f6006bd5da62d6a",
+  "active": "b384e5cb42f91ed6",
   "lastOpenFiles": [
+    "组内培训/wirless power.md",
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Untitled Diagram.svg",
     "组内培训/ecc内存检测/Pasted image 20220717201005.png",
@@ -128,7 +129,6 @@
     "Pasted image 20220717194406.png",
     "组内培训/ecc内存检测/Pasted image 20220717185943.png",
     "Pasted image 20220717184504.png.md",
-    "组内培训/ecc内存检测/Pasted image 20220717184500.png",
-    "Pasted image 20220717184504.png"
+    "组内培训/ecc内存检测/Pasted image 20220717184500.png"
   ]
 }
