@@ -11,19 +11,19 @@
           "state": {
             "file": "组内培训/ecc内存检测/ecc内存原理.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
       {
-        "id": "7b98f561e25cb504",
+        "id": "543c9a2e9f1e8be0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "组内培训/ecc内存检测/ecc内存原理.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "active": "9b67e6d35a8bddad",
   "lastOpenFiles": [
