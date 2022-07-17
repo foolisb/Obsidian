@@ -139,3 +139,5 @@
 
 >![[Pasted image 20220717232402.png]]
 
+>
+>![[Pasted image 20220717232853.png]]
