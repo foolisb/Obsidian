@@ -7,5 +7,5 @@
 ------
 >![[Pasted image 20220717181937.png]]
 
+>![[Pasted image 20220717184500.png]]
 
->![[Pasted image 20220717184504.png]]

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8ca7fd41cb34fd1b",
+        "id": "c5654ef5afb1611a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,14 +16,14 @@
         }
       },
       {
-        "id": "2a58394397aef8ac",
+        "id": "1cbf24257082b6cd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "组内培训/ecc内存检测/ecc内存原理.md",
-            "mode": "preview",
-            "source": true
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -118,17 +118,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "2a58394397aef8ac",
+  "active": "c5654ef5afb1611a",
   "lastOpenFiles": [
-    "组内培训/ecc内存检测/电磁干扰.png",
+    "Pasted image 20220717184504.png.md",
+    "组内培训/ecc内存检测/Pasted image 20220717184500.png",
     "组内培训/ecc内存检测/ecc内存原理.md",
+    "Pasted image 20220717184504.png",
     "组内培训/ecc内存检测/Pasted image 20220717181937.png",
+    "组内培训/ecc内存检测/电磁干扰.png",
     "组内培训/wirless power.md",
     "未命名.md",
     "conflict-files-obsidian-git.md",
-    "foundation/字符串.md",
-    "foundation/system()函数.md",
-    "foundation/fork.md",
-    "kanban/notion.md"
+    "foundation/字符串.md"
   ]
 }
