@@ -11,7 +11,7 @@
           "state": {
             "file": "组内培训/ecc内存检测/ecc内存原理.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
