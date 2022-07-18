@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "组内培训/ecc内存检测/ecc内存原理.md",
+            "file": "组内培训/wirless power.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/ecc内存检测/ecc内存原理.md",
+                "file": "组内培训/wirless power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/ecc内存检测/ecc内存原理.md"
+                "file": "组内培训/wirless power.md"
               }
             }
           },
@@ -108,9 +108,9 @@
   },
   "active": "7a60abbffb13e2a9",
   "lastOpenFiles": [
+    "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Pasted image 20220718001341.png",
     "组内培训/ecc内存检测/Pasted image 20220718001327.png",
-    "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/03BE38A0.png",
     "组内培训/ecc内存检测/047FD2A3.png",
     "conflict-files-obsidian-git.md",
