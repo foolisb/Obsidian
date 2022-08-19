@@ -74,22 +74,8 @@ RMII是简化的MII接口，在数据的收发上它比MII接口少了一倍的�
 
 - 10M带宽对应的是2.5MHz，因为4bit*2.5M=10Mbps
 - 100M带宽对应的是25MHz，因为4bit*25M=100Mbps
-1000M带宽对应的是125MHz，因为250MHz频率太高，所以采用双边沿采样技术（会带来设计复杂度）。4bit125M2=1000Mbps
-接口	引脚	速度支持(Mbps)	利	弊
-MII	RX_D[3:0]
-RX_CLK, RX_DV, CRS, COL
-TX_D[3:0], TX_CLK, TX_EN
-(14)	10, 100	普通引脚分配、低速、便于布线、最低延迟	无1-Gbps支持，高引脚计数
-MII减少（RMII）	RX_D[1:0], CRS_DV,
-TX_D[1:0], TX_EN
-(6)	10, 100	引脚计数减少	确定性延迟低 (由于先进、先出)，无1-Gbps支持
-千兆位MII（GMII）	RX_D[7:0], GRX_CLK, RX_CTRL, TX_D[7:0], GTX_CLK, TX_CTRL
-(20)	10, 100, 1000	1-Gbps支持，低延迟	高引脚计数，一般不支持
-千兆位MII减少（RGMII）	RX_D[3:0], RX_CLK, RX_CTRL, TX_D[3:0], TX_CLK, TX_CTRL
-(12)	10, 100, 1000	1-Gbps支持，普通引脚分配	脚分配
-布线困难，电磁兼容性（EMC）差
-串行千兆位MII（SGMII）	SO_P, SO_M, SI_P, SI_M
-(4)	10, 100, 1000	1-Gbps支持，普通引脚分配，电磁兼容性优良，易于布线	集成电路更昂贵
+- 1000M带宽对应的是125MHz，因为250MHz频率太高，所以采用双边沿采样技术（会带来设计复杂度）。4bit125M2=1000Mbps
+
 2.1.2 SMI接口
 SMI是MAC内核访问PHY寄存器接口，它由两根线组成，双工，MDC为时钟，MDIO为双向数据通信，原理上跟I2C总线很类似，也可以通过总线访问多个不同的phy。
 
