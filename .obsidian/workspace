@@ -7,8 +7,24 @@
         "id": "5860b4e15dfe18e8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "66b8fc572dee256d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.md"
+              }
             }
           },
           {
@@ -99,7 +118,7 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "ed5790f6e7796837",
+  "active": "5860b4e15dfe18e8",
   "lastOpenFiles": [
     "组内培训/未命名/未命名.md",
     "组内培训/wirless power.md",
