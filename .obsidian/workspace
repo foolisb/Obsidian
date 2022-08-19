@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a60abbffb13e2a9",
+        "id": "d3907834a919f86b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "组内培训/wirless power.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/wirless power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "组内培训/wirless power.md"
-              }
+              "state": {}
             }
           },
           {
@@ -106,8 +99,9 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "7a60abbffb13e2a9",
+  "active": "ed5790f6e7796837",
   "lastOpenFiles": [
+    "组内培训/wirless power.md",
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Pasted image 20220718001341.png",
     "组内培训/ecc内存检测/Pasted image 20220718001327.png",
@@ -115,7 +109,6 @@
     "组内培训/ecc内存检测/047FD2A3.png",
     "conflict-files-obsidian-git.md",
     "组内培训/ecc内存原理.md",
-    "组内培训/wirless power.md",
     "foundation/字符串.md",
     "foundation/system()函数.md"
   ]
