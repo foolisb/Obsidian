@@ -11,7 +11,7 @@
           "state": {
             "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       },
@@ -118,7 +118,7 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "ed5790f6e7796837",
+  "active": "5860b4e15dfe18e8",
   "lastOpenFiles": [
     "组内培训/未命名/未命名.md",
     "组内培训/wirless power.md",
