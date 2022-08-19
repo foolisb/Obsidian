@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d3907834a919f86b",
+        "id": "5860b4e15dfe18e8",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -101,6 +101,7 @@
   },
   "active": "ed5790f6e7796837",
   "lastOpenFiles": [
+    "组内培训/未命名/未命名.md",
     "组内培训/wirless power.md",
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Pasted image 20220718001341.png",
@@ -109,7 +110,6 @@
     "组内培训/ecc内存检测/047FD2A3.png",
     "conflict-files-obsidian-git.md",
     "组内培训/ecc内存原理.md",
-    "foundation/字符串.md",
-    "foundation/system()函数.md"
+    "foundation/字符串.md"
   ]
 }
