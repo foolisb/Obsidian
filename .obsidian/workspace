@@ -4,22 +4,42 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "2664ad1043df0150",
+=======
+        "id": "5860b4e15dfe18e8",
+>>>>>>> fa53f826e0c1255dd17b2545f4f531973d97d850
         "type": "leaf",
         "state": {
           "type": "image",
           "state": {
+<<<<<<< HEAD
             "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
+=======
+            "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+            "mode": "source",
+            "source": true
+>>>>>>> fa53f826e0c1255dd17b2545f4f531973d97d850
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "409ea4c9772d567d",
+=======
+        "id": "66b8fc572dee256d",
+>>>>>>> fa53f826e0c1255dd17b2545f4f531973d97d850
         "type": "leaf",
         "state": {
           "type": "image",
           "state": {
+<<<<<<< HEAD
             "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
+=======
+            "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+            "mode": "preview",
+            "source": false
+>>>>>>> fa53f826e0c1255dd17b2545f4f531973d97d850
           }
         }
       }
@@ -77,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png",
+=======
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+>>>>>>> fa53f826e0c1255dd17b2545f4f531973d97d850
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +118,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
+=======
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
+>>>>>>> fa53f826e0c1255dd17b2545f4f531973d97d850
               }
             }
           },
@@ -112,17 +140,20 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "2664ad1043df0150",
+  "active": "5860b4e15dfe18e8",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "组内培训/以太网基础-MAC和PHY/Untitled Diagram.svg",
+    "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+    "组内培训/未命名/未命名.md",
+    "组内培训/wirless power.md",
+>>>>>>> fa53f826e0c1255dd17b2545f4f531973d97d850
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Pasted image 20220718001341.png",
     "组内培训/ecc内存检测/Pasted image 20220718001327.png",
     "组内培训/ecc内存检测/03BE38A0.png",
     "组内培训/ecc内存检测/047FD2A3.png",
-    "conflict-files-obsidian-git.md",
-    "组内培训/ecc内存原理.md",
-    "组内培训/wirless power.md",
-    "foundation/字符串.md",
-    "foundation/system()函数.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
