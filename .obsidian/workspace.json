@@ -120,17 +120,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2664ad1043df0150",
+  "active": "409ea4c9772d567d",
   "lastOpenFiles": [
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Pasted image 20220718001341.png",
