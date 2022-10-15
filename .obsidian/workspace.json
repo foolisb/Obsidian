@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "748435fbc150fae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bba69a5d5952802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2664ad1043df0150",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "69036b9e80e6eb0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "409ea4c9772d567d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2421bf5ccc7e4b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "390567943564597e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5790f6e7796837",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df18b5276982297a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e53b9d73d7905f30",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ef9ed8de39c31f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9fd92a6f6e36a8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "652c34110fd7037e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
+              }
+            }
+          },
+          {
+            "id": "563ca28c50fb8a16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "2664ad1043df0150",
+  "lastOpenFiles": [
+    "组内培训/ecc内存检测/ecc内存原理.md",
+    "组内培训/ecc内存检测/Pasted image 20220718001341.png",
+    "组内培训/ecc内存检测/Pasted image 20220718001327.png",
+    "组内培训/ecc内存检测/03BE38A0.png",
+    "组内培训/ecc内存检测/047FD2A3.png",
+    "conflict-files-obsidian-git.md",
+    "组内培训/ecc内存原理.md",
+    "组内培训/wirless power.md",
+    "foundation/字符串.md",
+    "foundation/system()函数.md"
+  ]
+}
