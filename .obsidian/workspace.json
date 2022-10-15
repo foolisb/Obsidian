@@ -19,6 +19,25 @@
               }
             }
           }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "88a3051588db76cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae06424d7bc3df14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "组内培训/ecc内存检测/ecc内存原理.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
         ]
       }
     ],
