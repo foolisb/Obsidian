@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2bba69a5d5952802",
+        "id": "bc76ab4dc5f7a900",
         "type": "tabs",
         "children": [
           {
-            "id": "2664ad1043df0150",
+            "id": "5c408e3dcf13757a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "69036b9e80e6eb0a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "409ea4c9772d567d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -92,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "组内培训/ecc内存检测/Pasted image 20220718004116.png"
-              }
+              "state": {}
             }
           },
           {
@@ -126,13 +105,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2664ad1043df0150",
+  "active": "5c408e3dcf13757a",
   "lastOpenFiles": [
+    "组内培训/ecc内存检测/Pasted image 20220718004116.png",
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/ecc内存检测/Pasted image 20220718001341.png",
     "组内培训/ecc内存检测/Pasted image 20220718001327.png",
@@ -141,7 +122,6 @@
     "conflict-files-obsidian-git.md",
     "组内培训/ecc内存原理.md",
     "组内培训/wirless power.md",
-    "foundation/字符串.md",
-    "foundation/system()函数.md"
+    "foundation/字符串.md"
   ]
 }
