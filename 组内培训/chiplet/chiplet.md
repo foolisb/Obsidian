@@ -67,7 +67,7 @@ Chiplet也称“小芯片”或“芯粒”，它是一种功能电路块，包�
 ![[Pasted image 20221016200055.png]]
 
 ### chiplet封装技术-CoWoS
-- CoWoS（Chip on Wafer on Substrate）是台积电推出的2.5D封装技术
+- CoWoS（Chip on Wafer on Substrate）是台积电推出的2.5D先进封装技术
 
 - 把芯片封装到硅转接板（中介层）上，并使用硅转接板上的高密度布线进行互连，然后再安装在封装基板上
 
