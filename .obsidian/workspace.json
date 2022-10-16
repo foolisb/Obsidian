@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/chiplet.md",
-                "mode": "source",
+                "file": "组内培训/ecc内存检测/ecc内存原理.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/chiplet.md",
+                "file": "组内培训/chiplet/chiplet.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/chiplet.md",
+                "file": "组内培训/ecc内存检测/ecc内存原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/chiplet.md"
+                "file": "组内培训/ecc内存检测/ecc内存原理.md"
               }
             }
           },
@@ -136,10 +136,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f7437abb4a55742f",
+  "active": "48b16515d289ac94",
   "lastOpenFiles": [
+    "组内培训/chiplet/chiplet.md",
     "组内培训/ecc内存检测/ecc内存原理.md",
-    "组内培训/chiplet.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "conflict-files-obsidian-git.md",
     "组内培训/wirless power.md",
