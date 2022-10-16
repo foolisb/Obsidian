@@ -61,7 +61,7 @@ Chiplet也称“小芯片”或“芯粒”，它是一种功能电路块，包�
 - Fan-out Wafer Level Packaging（**FOWLP**），与刚才的MCM封装技术不同它特指无基板（Substrate，载板、衬板等），直接将裸片通过RDL（重布线层，redistribution layer）扇出到芯片凸块Bump层
 
 > ## 什么是扇出Fan-out？
-扇出对应着扇入，它们并不是在芯片工业发明的新名词，在电路制作中也有。这里的扇入和扇出是指导出的凸点Bump是否超出了裸片Die的面积，从而是否可以提供更多IO：
+扇出对应着扇入，它们并不是在芯片工业发明的新名词，在电路制作中也有。这里的扇入和扇出是指导出的凸点Bump是否超出了裸片Die的面积，引脚全部位于裸die从而是否可以提供更多IO：
 ![[Pasted image 20221016200609.png]]
 
 ![[Pasted image 20221016200055.png]]
