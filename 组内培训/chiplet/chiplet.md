@@ -55,4 +55,5 @@ Chiplet也称“小芯片”或“芯粒”，它是一种功能电路块，包�
 > 这种封装方式由来已久，简单可靠。但是缺点也比较明显，就是集成密度较低，使用传统基板走线难以形成大规模的链接，限制了它的集成规模。
 
 ### chiplet封装技术-InFO
-- InFO（Intergated Fanout）是由台积电2016年开发的先进封装
+- InFO（Intergated Fanout）是由台积电2016年开发的先进封装工艺，可以理解为多个芯片的FanOut工艺的集成。
+- Fan-out Wafer Level Packaging（**FOWLP**），它特指无基板（Substrate，载板、衬板等），直接将裸片通过RDL（重布线层，redistribution layer）扇出到芯片凸块Bump层
