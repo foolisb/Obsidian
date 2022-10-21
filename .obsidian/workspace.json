@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/chiplet/chiplet.md",
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/chiplet/chiplet.md",
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/chiplet/chiplet.md"
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
               }
             }
           },
@@ -119,15 +119,15 @@
   },
   "active": "bc17d19e278ba1d4",
   "lastOpenFiles": [
+    "kanban/notion.md",
+    "组内培训/chiplet/chiplet.md",
     "组内培训/chiplet/Pasted image 20221016200609.png",
     "组内培训/chiplet/Pasted image 20221016202815.png",
     "组内培训/chiplet/Pasted image 20221016205030.png",
     "组内培训/chiplet/Pasted image 20221016205217.png",
-    "组内培训/chiplet/chiplet.md",
     "组内培训/chiplet/Pasted image 20221016200055.png",
     "组内培训/chiplet/Pasted image 20221016215935.png",
     "组内培训/chiplet/Pasted image 20221016195704.png",
-    "组内培训/ecc内存检测/ecc内存原理.md",
-    "组内培训/ecc内存检测/电磁干扰.png"
+    "组内培训/ecc内存检测/ecc内存原理.md"
   ]
 }
