@@ -32,7 +32,7 @@
               "type": "markdown",
               "state": {
                 "file": "组内培训/mips/mips指令集.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -135,7 +135,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5dc9c7c095c3c4d7",
+  "active": "68172207cdb60d65",
   "lastOpenFiles": [
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "kanban/notion.md",
