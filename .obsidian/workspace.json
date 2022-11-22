@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9595f7485398441b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "877f942a972b37fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "组内培训/mips/mips指令集.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
