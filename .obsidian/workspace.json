@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/mips/mips指令集.md",
-                "mode": "source",
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/mips/mips指令集.md",
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/mips/mips指令集.md"
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
               }
             }
           },
@@ -137,6 +137,7 @@
   },
   "active": "68172207cdb60d65",
   "lastOpenFiles": [
+    "组内培训/mips/mips指令集.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "kanban/notion.md",
     "组内培训/chiplet/chiplet.md",
@@ -145,7 +146,6 @@
     "组内培训/chiplet/Pasted image 20221016205030.png",
     "组内培训/chiplet/Pasted image 20221016205217.png",
     "组内培训/chiplet/Pasted image 20221016200055.png",
-    "组内培训/chiplet/Pasted image 20221016215935.png",
-    "组内培训/chiplet/Pasted image 20221016195704.png"
+    "组内培训/chiplet/Pasted image 20221016215935.png"
   ]
 }
