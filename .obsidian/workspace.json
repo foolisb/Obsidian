@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8f5e48897077c275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work task/动态调整电源工作计划.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+                "file": "work task/动态调整电源工作计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
+                "file": "work task/动态调整电源工作计划.md"
               }
             }
           },
@@ -117,10 +130,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68172207cdb60d65",
+  "active": "8f5e48897077c275",
   "lastOpenFiles": [
-    "组内培训/mips/mips指令集.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+    "组内培训/mips/mips指令集.md",
     "kanban/notion.md",
     "组内培训/chiplet/chiplet.md",
     "组内培训/chiplet/Pasted image 20221016200609.png",
