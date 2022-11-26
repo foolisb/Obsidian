@@ -1,7 +1,7 @@
 {
   "theme": "moonstone",
   "cssTheme": "Blue Topaz",
-  "textFontFamily": "黑体",
+  "textFontFamily": "微软雅黑,Georgia",
   "accentColor": "",
   "baseFontSize": 14
 }
