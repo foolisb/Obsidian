@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/ecc内存检测/ecc内存原理.md",
-                "mode": "preview",
+                "file": "work task/动态调整电源工作计划.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/ecc内存检测/ecc内存原理.md",
+                "file": "work task/动态调整电源工作计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/ecc内存检测/ecc内存原理.md"
+                "file": "work task/动态调整电源工作计划.md"
               }
             }
           },
@@ -137,15 +137,15 @@
   },
   "active": "8f5e48897077c275",
   "lastOpenFiles": [
-    "组内培训/chiplet/chiplet.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+    "组内培训/chiplet/chiplet.md",
+    "组内培训/ecc内存检测/ecc内存原理.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/mips/mips指令集.md",
     "kanban/notion.md",
     "组内培训/chiplet/Pasted image 20221016200609.png",
     "组内培训/chiplet/Pasted image 20221016202815.png",
     "组内培训/chiplet/Pasted image 20221016205030.png",
-    "组内培训/chiplet/Pasted image 20221016205217.png",
-    "组内培训/chiplet/Pasted image 20221016200055.png"
+    "组内培训/chiplet/Pasted image 20221016205217.png"
   ]
 }
