@@ -49,8 +49,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "990d2a53451252b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电源节能需求半周报.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "43e8938fe0815ed6",
+  "active": "990d2a53451252b8",
   "lastOpenFiles": [
     "work task/动态调整电源工作计划.md",
     "组内培训/ecc内存检测/电磁干扰.png",
