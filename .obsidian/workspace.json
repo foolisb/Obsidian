@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "43e8938fe0815ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6547f97a8a798cf3",
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work task/动态调整电源工作计划.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work task/动态调整电源工作计划.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -132,7 +145,7 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "5376bf2597230b1b",
+  "active": "43e8938fe0815ed6",
   "lastOpenFiles": [
     "work task/动态调整电源工作计划.md",
     "组内培训/ecc内存检测/电磁干扰.png",
