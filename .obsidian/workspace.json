@@ -36,8 +36,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e064159908bd4e1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,10 +143,7 @@
     "width": 275,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "5376bf2597230b1b",
+  "active": "e064159908bd4e1d",
   "lastOpenFiles": [
     "work task/动态调整电源工作计划.md",
     "组内培训/ecc内存检测/电磁干扰.png",
