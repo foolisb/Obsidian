@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6547f97a8a798cf3",
@@ -62,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电源节能需求半周报.md",
+                "file": "work task/动态调整电源工作计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电源节能需求半周报.md"
+                "file": "work task/动态调整电源工作计划.md"
               }
             }
           },
@@ -158,8 +156,9 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "990d2a53451252b8",
+  "active": "5376bf2597230b1b",
   "lastOpenFiles": [
+    "电源节能需求半周报.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/ecc内存检测/电磁干扰.png",
     "组内培训/ecc内存检测/ecc内存原理.md",
@@ -168,7 +167,6 @@
     "组内培训/mips/mips指令集.md",
     "kanban/notion.md",
     "组内培训/chiplet/Pasted image 20221016200609.png",
-    "组内培训/chiplet/Pasted image 20221016202815.png",
-    "组内培训/chiplet/Pasted image 20221016205030.png"
+    "组内培训/chiplet/Pasted image 20221016202815.png"
   ]
 }
