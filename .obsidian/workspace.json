@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "a629e48a446519d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "43e8938fe0815ed6",
             "type": "leaf",
             "state": {
@@ -139,14 +151,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "b6b17419194a3cd7",
   "lastOpenFiles": [
+    "未命名.md",
     "组内培训/mips/mips指令集.md",
     "组内培训/wirless power.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
@@ -155,7 +168,6 @@
     "foundation/字符串.md",
     "work task/动态调整电源工作计划.md",
     "电源节能需求半周报.md",
-    "组内培训/ecc内存检测/电磁干扰.png",
-    "组内培训/ecc内存检测/ecc内存原理.md"
+    "组内培训/ecc内存检测/电磁干扰.png"
   ]
 }
