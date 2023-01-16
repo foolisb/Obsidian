@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"6c6f7ba57f14e029","x":-561,"y":-208,"width":400,"height":397,"type":"file","file":"foundation/system()函数.md"}
+	],
 	"edges":[]
 }
