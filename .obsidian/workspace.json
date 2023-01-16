@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
-                "mode": "source",
+                "file": "组内培训/mips/mips指令集.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+                "file": "组内培训/mips/mips指令集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
+                "file": "组内培训/mips/mips指令集.md"
               }
             }
           },
@@ -128,6 +128,8 @@
   },
   "active": "8f5e48897077c275",
   "lastOpenFiles": [
+    "组内培训/wirless power.md",
+    "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "foundation/system()函数.md",
     "foundation/JTAG.md",
     "foundation/字符串.md",
@@ -135,8 +137,6 @@
     "电源节能需求半周报.md",
     "组内培训/ecc内存检测/电磁干扰.png",
     "组内培训/ecc内存检测/ecc内存原理.md",
-    "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
-    "组内培训/chiplet/chiplet.md",
-    "组内培训/mips/mips指令集.md"
+    "组内培训/chiplet/chiplet.md"
   ]
 }
