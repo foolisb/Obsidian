@@ -1,9 +1,6 @@
 {
 	"nodes":[
-		{"id":"6c6f7ba57f14e029","x":-561,"y":-208,"width":400,"height":397,"type":"file","file":"foundation/system()函数.md"},
-		{"id":"c88ad031a900cc30","x":7,"y":22,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6c6f7ba57f14e029","x":-561,"y":-208,"width":400,"height":397,"type":"file","file":"foundation/system()函数.md"}
 	],
-	"edges":[
-		{"id":"cd830db2510e0864","fromNode":"c88ad031a900cc30","fromSide":"top","toNode":"6c6f7ba57f14e029","toSide":"right"}
-	]
+	"edges":[]
 }
