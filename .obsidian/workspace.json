@@ -35,8 +35,16 @@
             "id": "43e8938fe0815ed6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": -104.5,
+                  "y": 381.5,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ],
@@ -98,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.canvas"
+              }
             }
           },
           {
@@ -144,8 +155,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ed5790f6e7796837",
+  "active": "43e8938fe0815ed6",
   "lastOpenFiles": [
+    "2023-01-16.md",
     "未命名.canvas",
     "电源节能需求半周报.md",
     "组内培训/mips/mips指令集.md",
@@ -154,7 +166,6 @@
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "foundation/system()函数.md",
     "foundation/JTAG.md",
-    "foundation/字符串.md",
-    "work task/动态调整电源工作计划.md"
+    "foundation/字符串.md"
   ]
 }

@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"21253b7bcbc9fad5","x":-100,"y":-140,"width":659,"height":541,"type":"link","url":"https://blog.csdn.net/xl19862005/article/details/107605906"},
-		{"id":"6c6f7ba57f14e029","x":-860,"y":-140,"width":580,"height":500,"type":"file","file":"foundation/system()函数.md"}
+		{"id":"900c3dc112d3ced1","x":-507,"y":319,"width":400,"height":400,"type":"group","label":"Untitled group"},
+		{"id":"6c6f7ba57f14e029","x":-902,"y":-243,"width":580,"height":500,"type":"file","file":"foundation/system()函数.md"}
 	],
 	"edges":[
 		{"id":"2d6d4b2329094b33","fromNode":"6c6f7ba57f14e029","fromSide":"right","toNode":"21253b7bcbc9fad5","toSide":"left"}
