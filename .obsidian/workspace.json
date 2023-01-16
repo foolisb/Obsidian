@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work task/动态调整电源工作计划.md",
+                "file": "foundation/system()函数.md",
                 "mode": "source",
                 "source": true
               }
@@ -27,36 +27,6 @@
               "state": {
                 "file": "电源节能需求半周报.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6547f97a8a798cf3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5376bf2597230b1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work task/动态调整电源工作计划.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "990d2a53451252b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电源节能需求半周报.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -119,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work task/动态调整电源工作计划.md",
+                "file": "foundation/system()函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work task/动态调整电源工作计划.md"
+                "file": "foundation/system()函数.md"
               }
             }
           },
@@ -156,17 +126,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "5376bf2597230b1b",
+  "active": "8f5e48897077c275",
   "lastOpenFiles": [
-    "电源节能需求半周报.md",
+    "foundation/JTAG.md",
+    "foundation/字符串.md",
     "work task/动态调整电源工作计划.md",
+    "电源节能需求半周报.md",
     "组内培训/ecc内存检测/电磁干扰.png",
     "组内培训/ecc内存检测/ecc内存原理.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "组内培训/chiplet/chiplet.md",
     "组内培训/mips/mips指令集.md",
-    "kanban/notion.md",
-    "组内培训/chiplet/Pasted image 20221016200609.png",
-    "组内培训/chiplet/Pasted image 20221016202815.png"
+    "kanban/notion.md"
   ]
 }
