@@ -23,21 +23,15 @@
             "id": "b6b17419194a3cd7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "a629e48a446519d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 93,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -112,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "未命名.canvas"
+              }
             }
           },
           {
