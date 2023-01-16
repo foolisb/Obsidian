@@ -39,10 +39,10 @@
               "state": {
                 "file": "未命名.canvas",
                 "viewState": {
-                  "x": 50,
-                  "y": 72,
+                  "x": 48,
+                  "y": 162,
                   "zoom": 0,
-                  "snapToGrid": false
+                  "snapToGrid": true
                 }
               }
             }
