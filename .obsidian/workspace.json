@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "b6b17419194a3cd7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "43e8938fe0815ed6",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.5
   },
   "right": {
     "id": "e53b9d73d7905f30",
@@ -126,7 +137,18 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "8f5e48897077c275",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "b6b17419194a3cd7",
   "lastOpenFiles": [
     "组内培训/wirless power.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
