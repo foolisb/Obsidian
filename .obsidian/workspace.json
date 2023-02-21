@@ -25,30 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电源节能需求半周报.md",
+                "file": "work task/动态调整电源工作计划.md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "43e8938fe0815ed6",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 1447.5,
-                  "y": -788.3409090909101,
-                  "zoom": -2.4624093184371927,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "work task/动态调整电源工作计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "work task/动态调整电源工作计划.md"
               }
             }
           },
@@ -155,11 +139,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "43e8938fe0815ed6",
+  "active": "b6b17419194a3cd7",
   "lastOpenFiles": [
-    "2023-01-16.md",
-    "未命名.canvas",
     "电源节能需求半周报.md",
+    "未命名.canvas",
+    "2023-01-16.md",
     "组内培训/mips/mips指令集.md",
     "未命名.md",
     "组内培训/wirless power.md",
