@@ -15,7 +15,7 @@
               "state": {
                 "file": "i40e内存优化.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 200
   },
   "right": {
     "id": "e53b9d73d7905f30",
