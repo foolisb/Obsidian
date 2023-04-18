@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3129e753b402ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "双输入电源升级.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "i40e内存优化.md",
+                "file": "双输入电源升级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "i40e内存优化.md"
+                "file": "双输入电源升级.md"
               }
             }
           },
@@ -126,10 +139,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "8f5e48897077c275",
+  "active": "d3129e753b402ed8",
   "lastOpenFiles": [
-    "电源节能需求半周报.md",
     "i40e内存优化.md",
+    "双输入电源升级.md",
+    "电源节能需求半周报.md",
     "未命名.canvas",
     "组内培训/mips/mips指令集.md",
     "work task/动态调整电源工作计划.md",
