@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "双输入电源升级.md",
+                "file": "foundation/system()函数.md",
                 "mode": "source",
                 "source": true
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "双输入电源升级.md",
+                "file": "foundation/system()函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "双输入电源升级.md"
+                "file": "foundation/system()函数.md"
               }
             }
           },
@@ -143,6 +143,7 @@
   "lastOpenFiles": [
     "i40e内存优化.md",
     "双输入电源升级.md",
+    "kanban/notion.md",
     "电源节能需求半周报.md",
     "未命名.canvas",
     "组内培训/mips/mips指令集.md",
