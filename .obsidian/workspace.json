@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "i40e内存优化.md",
+                "file": "双输入电源升级.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "foundation/system()函数.md",
+                "file": "双输入电源升级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "foundation/system()函数.md"
+                "file": "双输入电源升级.md"
               }
             }
           },
@@ -139,9 +138,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "d3129e753b402ed8",
+  "active": "8f5e48897077c275",
   "lastOpenFiles": [
     "i40e内存优化.md",
+    "foundation/system()函数.md",
     "双输入电源升级.md",
     "kanban/notion.md",
     "电源节能需求半周报.md",
@@ -151,7 +151,6 @@
     "2023-01-16.md",
     "组内培训/wirless power.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
-    "foundation/system()函数.md",
     "foundation/JTAG.md",
     "foundation/字符串.md"
   ]
