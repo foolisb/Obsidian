@@ -15,7 +15,7 @@
               "state": {
                 "file": "双输入电源升级.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -140,9 +140,9 @@
   },
   "active": "8f5e48897077c275",
   "lastOpenFiles": [
-    "i40e内存优化.md",
     "foundation/system()函数.md",
     "双输入电源升级.md",
+    "i40e内存优化.md",
     "kanban/notion.md",
     "电源节能需求半周报.md",
     "未命名.canvas",
