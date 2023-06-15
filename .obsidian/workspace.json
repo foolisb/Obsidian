@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed5790f6e7796837",
+            "id": "ccd048e28fa8c11b",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "双输入电源升级.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "双输入电源升级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "双输入电源升级.md"
+              }
             }
           },
           {
@@ -111,7 +116,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ed5790f6e7796837",
+  "active": "df18b5276982297a",
   "lastOpenFiles": [
     "Untitled Diagram.svg",
     "双输入电源升级.md",
