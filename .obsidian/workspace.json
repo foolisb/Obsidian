@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,11 +145,11 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "1d0c5f6b18de2521",
+  "active": "920e7c9773ba8804",
   "lastOpenFiles": [
-    "2023-06-15.md",
-    "双输入电源升级.md",
     "未命名.canvas",
+    "双输入电源升级.md",
+    "2023-06-15.md",
     "Untitled Diagram.svg",
     "foundation/system()函数.md",
     "i40e内存优化.md",
