@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "f1c6f9b60c6e1bd8",
+  "active": "1d0c5f6b18de2521",
   "lastOpenFiles": [
     "2023-06-15.md",
     "双输入电源升级.md",

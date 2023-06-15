@@ -1,7 +1,7 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "",
   "textFontFamily": "Times New Roman,幼圆",
-  "accentColor": "",
+  "accentColor": "#ffffff",
   "baseFontSize": 14
 }
