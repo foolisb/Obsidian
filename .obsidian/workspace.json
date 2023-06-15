@@ -58,16 +58,6 @@
             }
           },
           {
-            "id": "1d0c5f6b18de2521",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "f000af7b3eabffda",
             "type": "leaf",
             "state": {
@@ -75,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53b9d73d7905f30",
@@ -145,12 +135,12 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "920e7c9773ba8804",
+  "active": "df18b5276982297a",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "双输入电源升级.md",
-    "2023-06-15.md",
     "Untitled Diagram.svg",
+    "双输入电源升级.md",
+    "未命名.canvas",
+    "2023-06-15.md",
     "foundation/system()函数.md",
     "i40e内存优化.md",
     "未命名.md",
