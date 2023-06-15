@@ -1,8 +1,8 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "",
   "textFontFamily": "Times New Roman,幼圆",
-  "accentColor": "#ebeaea",
+  "accentColor": "#fafafa",
   "baseFontSize": 14,
   "nativeMenus": false,
   "translucency": false
