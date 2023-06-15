@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5fbc7d41361732b4",
+        "id": "ebc4ecf92e62bc89",
         "type": "tabs",
         "children": [
           {
-            "id": "8f5e48897077c275",
+            "id": "c75232fad267b0b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "i40e内存优化.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "b5792a4c7e9dee10",
+            "id": "ed5790f6e7796837",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diagram-edit",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d3129e753b402ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "foundation/system()函数.md",
-                "mode": "source",
-                "source": true
+                "file": "Untitled Diagram.svg"
               }
             }
           }
@@ -57,16 +39,6 @@
         "id": "390567943564597e",
         "type": "tabs",
         "children": [
-          {
-            "id": "ed5790f6e7796837",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "df18b5276982297a",
             "type": "leaf",
@@ -86,7 +58,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 471.5
   },
   "right": {
     "id": "e53b9d73d7905f30",
@@ -102,7 +74,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -151,12 +123,13 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "b5792a4c7e9dee10",
+  "active": "ed5790f6e7796837",
   "lastOpenFiles": [
+    "foundation/system()函数.md",
     "i40e内存优化.md",
+    "Untitled Diagram.svg",
     "未命名.md",
     "双输入电源升级.md",
-    "foundation/system()函数.md",
     "kanban/notion.md",
     "电源节能需求半周报.md",
     "未命名.canvas",
