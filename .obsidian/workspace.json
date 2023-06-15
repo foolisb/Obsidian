@@ -16,18 +16,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b3974621c8b9d11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "双输入电源升级.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ]
       }
@@ -77,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "双输入电源升级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "双输入电源升级.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,10 +114,10 @@
   "active": "ed5790f6e7796837",
   "lastOpenFiles": [
     "Untitled Diagram.svg",
+    "双输入电源升级.md",
     "foundation/system()函数.md",
     "i40e内存优化.md",
     "未命名.md",
-    "双输入电源升级.md",
     "kanban/notion.md",
     "电源节能需求半周报.md",
     "未命名.canvas",
