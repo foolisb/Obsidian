@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b1cf4903a8430677",
+        "id": "52149ef7c794d656",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c6f9b60c6e1bd8",
+            "id": "270618304e259c41",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -54,12 +52,12 @@
             }
           },
           {
-            "id": "592767fe82dbad8e",
+            "id": "c199a936646443ba",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "file-explorer",
               "state": {
-                "file": "Untitled Diagram 1.svg"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram 1.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Diagram 1.svg"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +128,7 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "592767fe82dbad8e",
+  "active": "c199a936646443ba",
   "lastOpenFiles": [
     "Untitled Diagram 1.svg",
     "2023-06-15.md",
