@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ebc4ecf92e62bc89",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccd048e28fa8c11b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b1cf4903a8430677",
         "type": "tabs",
         "children": [
@@ -72,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e53b9d73d7905f30",
@@ -89,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "双输入电源升级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "双输入电源升级.md"
               }
             }
           },
@@ -138,8 +116,9 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "ccd048e28fa8c11b",
+  "active": "920e7c9773ba8804",
   "lastOpenFiles": [
+    "2023-06-15.md",
     "双输入电源升级.md",
     "未命名.canvas",
     "Untitled Diagram.svg",
