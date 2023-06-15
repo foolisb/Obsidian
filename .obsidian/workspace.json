@@ -11,11 +11,14 @@
             "id": "ccd048e28fa8c11b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "双输入电源升级.md",
-                "mode": "source",
-                "source": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -86,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "双输入电源升级.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "双输入电源升级.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -138,13 +141,13 @@
   "active": "ccd048e28fa8c11b",
   "lastOpenFiles": [
     "双输入电源升级.md",
+    "未命名.canvas",
     "Untitled Diagram.svg",
     "foundation/system()函数.md",
     "i40e内存优化.md",
     "未命名.md",
     "kanban/notion.md",
     "电源节能需求半周报.md",
-    "未命名.canvas",
     "组内培训/mips/mips指令集.md",
     "work task/动态调整电源工作计划.md",
     "2023-01-16.md",
