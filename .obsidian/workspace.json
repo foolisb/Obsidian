@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/wirless power.md",
+                "file": "work task/动态调整电源工作计划.md",
                 "mode": "preview",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/wirless power.md",
+                "file": "work task/动态调整电源工作计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/wirless power.md"
+                "file": "work task/动态调整电源工作计划.md"
               }
             }
           },
@@ -137,6 +137,8 @@
   },
   "active": "270618304e259c41",
   "lastOpenFiles": [
+    "双输入电源升级.md",
+    "组内培训/wirless power.md",
     "foundation/system()函数.md",
     "foundation/JTAG.md",
     "foundation/Pasted image 20220512101744.png",
@@ -144,7 +146,6 @@
     "foundation/Pasted image 20220512113417.png",
     "foundation/fork.md",
     "kanban/notion.md",
-    "双输入电源升级.md",
     "i40e内存优化.md",
     "2023-06-15.md",
     "未命名.md",
@@ -155,7 +156,6 @@
     "组内培训/mips/mips指令集.md",
     "work task/动态调整电源工作计划.md",
     "2023-01-16.md",
-    "组内培训/wirless power.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "foundation/字符串.md"
   ]
