@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "双输入电源升级.md",
+                "file": "组内培训/chiplet/chiplet.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "双输入电源升级.md",
+                "file": "组内培训/chiplet/chiplet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "双输入电源升级.md"
+                "file": "组内培训/chiplet/chiplet.md"
               }
             }
           },
@@ -137,16 +137,17 @@
   },
   "active": "270618304e259c41",
   "lastOpenFiles": [
-    "work task/动态调整电源工作计划.md",
+    "foundation/字符串.md",
+    "foundation/fork.md",
     "双输入电源升级.md",
+    "kanban/notion.md",
+    "work task/动态调整电源工作计划.md",
     "组内培训/wirless power.md",
     "foundation/system()函数.md",
     "foundation/JTAG.md",
     "foundation/Pasted image 20220512101744.png",
     "foundation/Pasted image 20220512112835.png",
     "foundation/Pasted image 20220512113417.png",
-    "foundation/fork.md",
-    "kanban/notion.md",
     "i40e内存优化.md",
     "2023-06-15.md",
     "未命名.md",
@@ -156,7 +157,6 @@
     "电源节能需求半周报.md",
     "组内培训/mips/mips指令集.md",
     "2023-01-16.md",
-    "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
-    "foundation/字符串.md"
+    "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
   ]
 }
