@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "组内培训/chiplet/chiplet.md",
+                "file": "双输入电源升级.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "组内培训/chiplet/chiplet.md",
+                "file": "双输入电源升级.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "组内培训/chiplet/chiplet.md"
+                "file": "双输入电源升级.md"
               }
             }
           },
@@ -137,11 +137,12 @@
   },
   "active": "270618304e259c41",
   "lastOpenFiles": [
+    "work task/动态调整电源工作计划.md",
+    "组内培训/chiplet/chiplet.md",
     "foundation/字符串.md",
     "foundation/fork.md",
     "双输入电源升级.md",
     "kanban/notion.md",
-    "work task/动态调整电源工作计划.md",
     "组内培训/wirless power.md",
     "foundation/system()函数.md",
     "foundation/JTAG.md",
