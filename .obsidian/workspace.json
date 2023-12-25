@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a212450f19ad1a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "双输入电源升级.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "双输入电源升级.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -135,13 +148,14 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "270618304e259c41",
+  "active": "2a212450f19ad1a9",
   "lastOpenFiles": [
+    "双输入电源升级.md",
+    "未命名.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/chiplet/chiplet.md",
     "foundation/字符串.md",
     "foundation/fork.md",
-    "双输入电源升级.md",
     "kanban/notion.md",
     "组内培训/wirless power.md",
     "foundation/system()函数.md",
@@ -151,7 +165,6 @@
     "foundation/Pasted image 20220512113417.png",
     "i40e内存优化.md",
     "2023-06-15.md",
-    "未命名.md",
     "未命名.canvas",
     "Untitled Diagram 1.svg",
     "Untitled Diagram.svg",
