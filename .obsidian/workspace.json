@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3c28d46317203c41",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,10 +155,10 @@
       "daily-notes:打开/创建今天的日记": false
     }
   },
-  "active": "2a212450f19ad1a9",
+  "active": "3c28d46317203c41",
   "lastOpenFiles": [
-    "双输入电源升级.md",
     "未命名.md",
+    "双输入电源升级.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/chiplet/chiplet.md",
     "foundation/字符串.md",
