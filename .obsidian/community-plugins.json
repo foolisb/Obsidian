@@ -1,8 +1,8 @@
 [
   "calendar",
   "obsidian-kanban",
-  "obsidian-git",
   "obsidian-advanced-slides",
   "obsidian-image-toolkit",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-git"
 ]
