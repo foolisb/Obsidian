@@ -1,26 +1,26 @@
 {
   "main": {
-    "id": "748435fbc150fae7",
+    "id": "3f766b1e6e798e3a",
     "type": "split",
     "children": [
       {
-        "id": "52149ef7c794d656",
+        "id": "2d2161756b03c313",
         "type": "tabs",
         "children": [
           {
-            "id": "270618304e259c41",
+            "id": "bad2a8091588436b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "双输入电源升级.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "2a212450f19ad1a9",
+            "id": "9d9be414072c34d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,15 +38,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a2421bf5ccc7e4b5",
+    "id": "28535d4ff5f5d922",
     "type": "split",
     "children": [
       {
-        "id": "390567943564597e",
+        "id": "bbdb0a7dc8aac75d",
         "type": "tabs",
         "children": [
           {
-            "id": "df18b5276982297a",
+            "id": "cc9bdfbd46431de5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da310720e3bd4a96",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,40 +71,37 @@
             }
           },
           {
-            "id": "f000af7b3eabffda",
+            "id": "51b2e200d14ef73d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "c199a936646443ba",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 300
   },
   "right": {
-    "id": "e53b9d73d7905f30",
+    "id": "b8442e56882c1b45",
     "type": "split",
     "children": [
       {
-        "id": "7ef9ed8de39c31f1",
+        "id": "6f1edab95185ab42",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fd92a6f6e36a8d",
+            "id": "25ecdd24247fcee4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e98f64c5858a681",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -111,7 +118,7 @@
             }
           },
           {
-            "id": "652c34110fd7037e",
+            "id": "b3c798141e7b12c8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -119,58 +126,30 @@
                 "file": "未命名.md"
               }
             }
-          },
-          {
-            "id": "563ca28c50fb8a16",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 275,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "daily-notes:打开/创建今天的日记": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "2a212450f19ad1a9",
+  "active": "9d9be414072c34d8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "未命名.md",
-    "双输入电源升级.md",
-    "work task/动态调整电源工作计划.md",
-    "组内培训/chiplet/chiplet.md",
-    "foundation/字符串.md",
-    "foundation/fork.md",
-    "kanban/notion.md",
-    "组内培训/wirless power.md",
-    "foundation/system()函数.md",
-    "foundation/JTAG.md",
-    "foundation/Pasted image 20220512101744.png",
-    "foundation/Pasted image 20220512112835.png",
-    "foundation/Pasted image 20220512113417.png",
-    "i40e内存优化.md",
-    "2023-06-15.md",
-    "未命名.canvas",
-    "Untitled Diagram 1.svg",
-    "Untitled Diagram.svg",
-    "电源节能需求半周报.md",
-    "组内培训/mips/mips指令集.md",
-    "2023-01-16.md",
-    "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
+    "双输入电源升级.md"
   ]
 }
