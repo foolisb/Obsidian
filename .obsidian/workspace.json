@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "未命名.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9d9be414072c34d8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "双输入电源升级.md",
     "未命名.md",
-    "双输入电源升级.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
