@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work task/动态调整电源工作计划.md",
-                "mode": "preview",
-                "source": true
+                "file": "pon-onu/dm4.0.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work task/动态调整电源工作计划.md",
+                "file": "pon-onu/dm4.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work task/动态调整电源工作计划.md"
+                "file": "pon-onu/dm4.0.md"
               }
             }
           }
@@ -135,9 +135,9 @@
   },
   "active": "2a6a2af2da167322",
   "lastOpenFiles": [
-    "双输入电源升级.md",
     "未命名.md",
     "work task/动态调整电源工作计划.md",
+    "双输入电源升级.md",
     "conflict-files-obsidian-git.md"
   ]
 }
