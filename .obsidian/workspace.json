@@ -15,7 +15,7 @@
               "state": {
                 "file": "pon-onu/可维护特性.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -135,10 +135,17 @@
   },
   "active": "2a6a2af2da167322",
   "lastOpenFiles": [
-    "pon-onu/dm4.0.md",
-    "pon-onu/可维护特性.md",
     "未命名.md",
+    "pon-onu/可维护特性.md",
+    "foundation/system()函数.md",
+    "foundation/Pasted image 20220512112835.png",
+    "foundation/Pasted image 20220512101744.png",
+    "foundation/JTAG.md",
+    "foundation/fork.md",
+    "foundation/字符串.md",
+    "组内培训/wirless power.md",
     "work task/动态调整电源工作计划.md",
+    "pon-onu/dm4.0.md",
     "双输入电源升级.md",
     "conflict-files-obsidian-git.md"
   ]
