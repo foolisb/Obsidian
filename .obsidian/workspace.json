@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
-                "mode": "source",
+                "file": "work task/动态调整电源工作计划.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "work task/动态调整电源工作计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "work task/动态调整电源工作计划.md"
               }
             }
           }
@@ -136,8 +136,8 @@
   "active": "2a6a2af2da167322",
   "lastOpenFiles": [
     "双输入电源升级.md",
-    "work task/动态调整电源工作计划.md",
     "未命名.md",
+    "work task/动态调整电源工作计划.md",
     "conflict-files-obsidian-git.md"
   ]
 }
