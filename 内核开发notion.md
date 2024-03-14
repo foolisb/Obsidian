@@ -5,3 +5,5 @@ unix和window文件格式，用记事本或者vim/vi编辑器修改，否则再�
 ### 2、.dtsi文件和Makefile.in文件
 等价于c文件中的.h文件，可以在dts或者Makefile文件中被include
 通常是将一些通用配置整合在一个文件中，精简冗余配置文件，方便配置文件的管理
+
+### 3、了解下cgroup相关的知识，cpu分组
