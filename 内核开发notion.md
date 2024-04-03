@@ -34,3 +34,7 @@ u32 b;
 
 ### 7、内核异常汇总
 	https://blog.csdn.net/qq_35399548/article/details/122817988
+
+### 8、写shell脚本
+	赋值语句不要带空格
+	 a = b 错误
