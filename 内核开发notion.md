@@ -37,4 +37,5 @@ u32 b;
 
 ### 8、写shell脚本
 	赋值语句不要带空格
-	 a = b 错误
+	 countfile = "/userconfig/config/countfile"错误写法，不要带空格
+	 countfile="/userconfig/config/countfile"正确写法
