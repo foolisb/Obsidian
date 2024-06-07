@@ -41,4 +41,4 @@ u32 b;
 	 countfile="/userconfig/config/countfile"正确写法
 
 ### 9、编译陷阱
-	背景：在编译调试egt908h8t款onu过程中发现，在profile文件中增加
+	背景：在编译调试egt908h8t款onu过程中发现，在profile文件中增加TCSUPPORT_VOIP语音定制后
