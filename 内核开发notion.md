@@ -36,15 +36,15 @@ u32 b;
 	https://blog.csdn.net/qq_35399548/article/details/122817988
 
 ### 8、写shell脚本
-	赋值语句不要带空格
+    赋值语句不要带空格
 	 countfile = "/userconfig/config/countfile"错误写法，不要带空格
 	 countfile="/userconfig/config/countfile"正确写法
 
 ### 9、编译陷阱
-	背景：在编译调试egt908h8t款onu过程中发现，在profile文件中增加TCSUPPORT_VOIP语音定制后
+    背景：在编译调试egt908h8t款onu过程中发现，在profile文件中增加TCSUPPORT_VOIP语音定制后
 	通过tcapi命令无法获取对应语音节点信息
 
 
 	原因：tcapi获取的节点列表在代码编译的过程中通过.o或者.a的形式生成bin文件，在编译过程中增加定制
 	就是在编译中增加编译宏，在.c代码中选择需要编译的代码段。但是在第一编译时如果不包含语音定制，那么之后
-	在定制中再次开启语音定制在编译过程中由于编译优化的原因，编译器默认.c文件相较之前的代码没有
+	在定制中再次开启语音定制在编译过程中由于编译优化的原因，编译器默认.c文件相较之前的代码没有发生变化
