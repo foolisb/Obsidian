@@ -40,4 +40,5 @@ u32 b;
 	 countfile = "/userconfig/config/countfile"错误写法，不要带空格
 	 countfile="/userconfig/config/countfile"正确写法
 
-###
+### 9、编译陷阱
+	背景：
