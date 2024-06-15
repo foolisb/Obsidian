@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内核开发notion.md",
+                "file": "pon-onu/dm4.0.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cf7963d70c4b230c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux base.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内核开发notion.md",
+                "file": "linux base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内核开发notion.md"
+                "file": "linux base.md"
               }
             }
           }
@@ -145,13 +157,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b55657e926b7ae90",
+  "active": "cf7963d70c4b230c",
   "lastOpenFiles": [
+    "pon-onu/dm4.0.md",
+    "linux base.md",
+    "pon-onu/可维护特性.md",
     "未命名.md",
     "sdk学习.md",
     "内核开发notion.md",
     "未命名 2.md",
-    "pon-onu/可维护特性.md",
     "foundation/system()函数.md",
     "foundation/Pasted image 20220512112835.png",
     "foundation/Pasted image 20220512101744.png",
@@ -160,7 +174,6 @@
     "foundation/字符串.md",
     "组内培训/wirless power.md",
     "work task/动态调整电源工作计划.md",
-    "pon-onu/dm4.0.md",
     "双输入电源升级.md",
     "conflict-files-obsidian-git.md"
   ]
