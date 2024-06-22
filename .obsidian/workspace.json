@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux base.md",
+                "file": "内核开发notion.md",
                 "mode": "preview",
                 "source": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux base.md",
+                "file": "内核开发notion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux base.md"
+                "file": "内核开发notion.md"
               }
             }
           }
@@ -159,10 +159,10 @@
   },
   "active": "cf7963d70c4b230c",
   "lastOpenFiles": [
-    "pon-onu/dm4.0.md",
-    "linux base.md",
-    "pon-onu/可维护特性.md",
     "未命名.md",
+    "linux base.md",
+    "pon-onu/dm4.0.md",
+    "pon-onu/可维护特性.md",
     "sdk学习.md",
     "内核开发notion.md",
     "未命名 2.md",
