@@ -30,9 +30,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7cd7e8509c77cf6b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +155,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b55657e926b7ae90",
+  "active": "7cd7e8509c77cf6b",
   "lastOpenFiles": [
     "基础学习.md",
     "pon-onu/dm4.0.md",
