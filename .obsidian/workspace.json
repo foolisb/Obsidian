@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pon-onu/可维护特性.md",
+                "file": "基础学习.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pon-onu/可维护特性.md",
+                "file": "基础学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pon-onu/可维护特性.md"
+                "file": "基础学习.md"
               }
             }
           }
@@ -135,12 +135,13 @@
   },
   "active": "1351876b93b0521d",
   "lastOpenFiles": [
-    "pon-onu/dm4.0.md",
-    "基础学习.md",
-    "内核开发notion.md",
     "双输入电源升级.md",
     "未命名.md",
     "linux base.md",
+    "pon-onu/dm4.0.md",
+    "pon-onu/可维护特性.md",
+    "基础学习.md",
+    "内核开发notion.md",
     "conflict-files-obsidian-git.md"
   ]
 }
