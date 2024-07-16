@@ -18,8 +18,57 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8f17034d99021686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础学习.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c60f50d6dfb4724b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础学习.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "59a0ce18fa99258c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础学习.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a90af2743018917b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学习.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学习.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -132,10 +181,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b55657e926b7ae90",
+  "active": "a90af2743018917b",
   "lastOpenFiles": [
-    "未命名.md",
     "基础学习.md",
+    "conflict-files-obsidian-git.md",
+    "未命名.md",
     "双输入电源升级.md",
     "linux base.md",
     "pon-onu/dm4.0.md",
@@ -149,7 +199,6 @@
     "foundation/fork.md",
     "foundation/字符串.md",
     "组内培训/wirless power.md",
-    "work task/动态调整电源工作计划.md",
-    "conflict-files-obsidian-git.md"
+    "work task/动态调整电源工作计划.md"
   ]
 }

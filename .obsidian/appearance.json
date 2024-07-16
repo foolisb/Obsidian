@@ -1,8 +1,8 @@
 {
-  "theme": "system",
+  "theme": "moonstone",
   "cssTheme": "",
   "textFontFamily": "Times New Roman,幼圆",
-  "accentColor": "#080808",
+  "accentColor": "#2e2d2d",
   "baseFontSize": 14,
   "nativeMenus": false,
   "translucency": false
