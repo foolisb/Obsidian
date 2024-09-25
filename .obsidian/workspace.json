@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "http://www.pedestrian.com.cn/optee/optee/optee_summary.html",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8aa4047ea3d03c44",
+  "active": "8bd5aca437677c3b",
   "lastOpenFiles": [
     "双输入电源升级.md",
     "未命名.md",
