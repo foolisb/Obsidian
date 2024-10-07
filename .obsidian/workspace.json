@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学习.md",
+                "file": "linux base.md",
                 "mode": "source",
                 "source": true
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学习.md",
+                "file": "linux base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学习.md"
+                "file": "linux base.md"
               }
             }
           }
@@ -134,13 +133,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8bd5aca437677c3b",
+  "active": "8aa4047ea3d03c44",
   "lastOpenFiles": [
-    "双输入电源升级.md",
     "未命名.md",
+    "基础学习.md",
+    "双输入电源升级.md",
     "linux base.md",
     "内核开发notion.md",
-    "基础学习.md",
     "pon-onu/dm4.0.md",
     "pon-onu/可维护特性.md",
     "conflict-files-obsidian-git.md"
