@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学习.md",
-                "mode": "source",
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学习.md",
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学习.md"
+                "file": "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
               }
             }
           }
@@ -157,13 +157,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "39fc1acdf677642d",
+  "active": "cc9bdfbd46431de5",
   "lastOpenFiles": [
+    "基础学习.md",
+    "内核开发notion.md",
     "双输入电源升级.md",
     "未命名.md",
     "linux base.md",
-    "内核开发notion.md",
-    "基础学习.md",
     "conflict-files-obsidian-git.md",
     "pon-onu/dm4.0.md",
     "pon-onu/可维护特性.md",
