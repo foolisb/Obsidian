@@ -16,7 +16,9 @@
                 "file": "内核开发notion.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "内核开发notion"
             }
           },
           {
@@ -28,7 +30,23 @@
                 "file": "内核开发notion.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "内核开发notion"
+            }
+          },
+          {
+            "id": "922b32c70ce91792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux base.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "linux base"
             }
           },
           {
@@ -40,11 +58,13 @@
                 "file": "内核开发notion.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "内核开发notion"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -79,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -87,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -109,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -118,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内核开发notion.md",
+                "file": "linux base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +154,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "linux base 的反向链接列表"
             }
           },
           {
@@ -135,8 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内核开发notion.md"
-              }
+                "file": "linux base.md"
+              },
+              "icon": "lucide-list",
+              "title": "linux base 的大纲"
             }
           }
         ]
@@ -157,7 +189,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "39fc1acdf677642d",
+  "active": "922b32c70ce91792",
   "lastOpenFiles": [
     "基础学习.md",
     "双输入电源升级.md",
