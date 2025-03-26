@@ -225,3 +225,95 @@ void func(int (*matrix)[4], int rows) { /* ... */ } // 使用数组指针
 - **指针运算的步长**由类型决定（`arr + 1` vs `&arr + 1`）。
                              
 理解这些区别，可以避免在操作数组和指针时出现未定义行为或逻辑错误。# 
+
+                                                                                                                       
+1. 为什么需要二级指针？                                                                                                                             
+(1) 值传递的限制                                                                                                                                    
+假设函数原型设计为：                                                                                                                                
+                                                                                                                                                    
+int of_property_read_string(..., const char *out_string);                                                                                           
+                                                                                                                                                    
+调用方式：                                                                                                                                          
+const char *pcbuf = NULL;                                                                                                                           
+of_property_read_string(..., pcbuf);                                                                                                                
+                                                                                                                                                    
+问题：函数内部修改 out_string 的指向（例如 out_string = new_address）只会修改函数内的副本，外部的 pcbuf 依然为 NULL。                               
+(2) 二级指针的作用                                                                                                                                  
+将参数改为二级指针：                                                                                                                                
+                                                                                                                                                    
+int of_property_read_string(..., const char **out_string);                                                                                          
+                                                                                                                                                    
+调用方式：                                                                                                                                          
+const char *pcbuf = NULL;                                                                                                                           
+of_property_read_string(..., &pcbuf); // 传递 pcbuf 的地址                                                                                          
+                                                                                                                                                    
+原理：函数内部通过解引用操作 *out_string = new_address，直接修改外部的 pcbuf 指针的值。                                                             
+2. 代码示例对比                                                                                                                                     
+(1) 错误示例（一级指针）                                                                                                                            
+void set_string(const char *str) {                                                                                                                  
+    str = "new value"; // 修改的是函数内的副本                                                                                                      
+}                                                                                                                                                   
+                                                                                                                                                    
+int main() {                                                                                                                                        
+    const char *s = NULL;                                                                                                                           
+    set_string(s);                                                                                                                                  
+    printf("%s\n", s); // 输出 NULL                                                                                                                 
+    return 0;                                                                                                                                       
+}                                                                                                                                                   
+                                                                                                                                                    
+(2) 正确示例（二级指针）                                                                                                                            
+void set_string(const char **str) {                                                                                                                 
+    *str = "new value"; // 通过解引用修改外部的指针                                                                                                 
+}                                                                                                                                                   
+                                                                                                                                                    
+int main() {                                                                                                                                        
+    const char *s = NULL;                                                                                                                           
+    set_string(&s);                                                                                                                                 
+    printf("%s\n", s); // 输出 "new value"                                                                                                          
+    return 0;                                                                                                                                       
+}                                                                                                                                                   
+                                                                                                                                                    
+3. of_property_read_string 的设计逻辑                                                                                                               
+目标：让函数直接修改调用者提供的指针变量（pcbuf），使其指向设备树中的字符串地址。                                                                   
+实现：                                                                                                                                              
+调用者传递指针的地址（&pcbuf）。                                                                                                                    
+函数内部通过 *out_string = ... 修改外部的 pcbuf。                                                                                                   
+4. 关键点总结                                                                                                                                       
+场景    是否需要二级指针        原因                                                                                                                
+函数需要修改指针的指向  是      通过二级指针解引用，直接修改外部指针的值。                                                                          
+函数仅读取指针指向的数据        否      一级指针足够，函数只需读取数据，无需修改指针本身。                                                          
+5. 常见误区                                                                                                                                         
+(1) 误用一级指针                                                                                                                                    
+const char *pcbuf = NULL;                                                                                                                           
+of_property_read_string(..., pcbuf); // 错误！无法修改 pcbuf 的值                                                                                   
+                                                                                                                                                    
+此时 pcbuf 仍然是 NULL。                                                                                                                            
+(2) 正确使用二级指针                                                                                                                                
+const char *pcbuf = NULL;                                                                                                                           
+of_property_read_string(..., &pcbuf); // 正确！pcbuf 会被赋值为字符串地址                                                                           
+                                                                                                                                                    
+6. 扩展：其他类似场景                                                                                                                               
+(1) 动态内存分配                                                                                                                                    
+void allocate_memory(char **buf, int size) {
+    *buf = malloc(size); // 修改外部指针的指向
+}
+                                                                                
+int main() {
+    char *buffer = NULL;
+    allocate_memory(&buffer, 100);
+    free(buffer);
+    return 0;
+}
+                                                                                         
+(2) 链表操作
+void add_node(ListNode **head, int data) {
+    ListNode *new_node = malloc(sizeof(ListNode));
+    new_node->data = data;
+    new_node->next = *head;
+    *head = new_node; // 修改头指针的指向
+}
+                         
+7. 总结
+二级指针的作用：允许函数直接修改调用者提供的指针变量的值。
+of_property_read_string 的设计：通过传递 const char **out_string，函数可以安全地将设备树中的字符串地址赋给外部的 pcbuf。
+内存管理：pcbuf 指向的是设备树中的静态数据，无需手动释放。
