@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内核开发notion.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "内核开发notion"
-            }
-          },
-          {
-            "id": "096ee4038f4f881b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,13 +166,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内核开发notion.md"
+                "file": "未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "内核开发notion 的大纲"
+              "title": "未命名 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,7 +194,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "096ee4038f4f881b",
+  "active": "b3c798141e7b12c8",
   "lastOpenFiles": [
     "内核开发notion.md",
     "未命名.md",
