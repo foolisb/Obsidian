@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "内核开发notion"
             }
+          },
+          {
+            "id": "096ee4038f4f881b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +95,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -189,7 +202,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "be65f5f3c6d07361",
+  "active": "096ee4038f4f881b",
   "lastOpenFiles": [
     "内核开发notion.md",
     "未命名.md",
