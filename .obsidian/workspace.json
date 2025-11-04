@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux base.md",
+                "file": "foundation/JTAG.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "linux base"
+              "title": "JTAG"
             }
           }
         ],
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux base.md",
+                "file": "foundation/JTAG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "linux base 的大纲"
+              "title": "JTAG 的大纲"
             }
           }
         ],
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -196,15 +197,15 @@
   },
   "active": "be65f5f3c6d07361",
   "lastOpenFiles": [
+    "pon-onu/可维护特性.md",
+    "pon-onu/dm4.0.md",
+    "linux base.md",
     "未命名.md",
     "内核开发notion.md",
-    "linux base.md",
     "基础学习.md",
     "双输入电源升级.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "conflict-files-obsidian-git.md",
-    "pon-onu/dm4.0.md",
-    "pon-onu/可维护特性.md",
     "未命名 2.md",
     "foundation/system()函数.md",
     "foundation/Pasted image 20220512112835.png",
