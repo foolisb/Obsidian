@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b55657e926b7ae90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "内核开发notion.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "内核开发notion"
-            }
-          },
-          {
             "id": "39fc1acdf677642d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内核开发notion.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "内核开发notion"
+              "title": "未命名"
             }
           },
           {
@@ -48,23 +34,8 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
-          },
-          {
-            "id": "be65f5f3c6d07361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "foundation/JTAG.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "JTAG"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "foundation/JTAG.md",
-                "followCursor": false,
+                "file": "未命名.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JTAG 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -192,16 +163,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be65f5f3c6d07361",
+  "active": "b3c798141e7b12c8",
   "lastOpenFiles": [
+    "linux base.md",
+    "work task/动态调整电源工作计划.md",
+    "组内培训/wirless power.md",
+    "内核开发notion.md",
+    "未命名.md",
+    "foundation/JTAG.md",
     "pon-onu/可维护特性.md",
     "pon-onu/dm4.0.md",
-    "linux base.md",
-    "未命名.md",
-    "内核开发notion.md",
     "基础学习.md",
     "双输入电源升级.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
@@ -210,10 +185,7 @@
     "foundation/system()函数.md",
     "foundation/Pasted image 20220512112835.png",
     "foundation/Pasted image 20220512101744.png",
-    "foundation/JTAG.md",
     "foundation/fork.md",
-    "foundation/字符串.md",
-    "组内培训/wirless power.md",
-    "work task/动态调整电源工作计划.md"
+    "foundation/字符串.md"
   ]
 }
