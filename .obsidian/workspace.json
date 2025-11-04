@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3c798141e7b12c8",
+  "active": "315d97e7049419c9",
   "lastOpenFiles": [
     "基础学习.md",
     "未命名.md",
