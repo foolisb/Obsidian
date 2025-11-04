@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "linux base.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "linux base"
             }
           }
         ],
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "linux base.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "linux base 的大纲"
             }
           }
         ],
@@ -194,10 +194,10 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "b3c798141e7b12c8",
+  "active": "be65f5f3c6d07361",
   "lastOpenFiles": [
-    "内核开发notion.md",
     "未命名.md",
+    "内核开发notion.md",
     "linux base.md",
     "基础学习.md",
     "双输入电源升级.md",
