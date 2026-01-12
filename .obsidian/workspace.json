@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b73a99e6316e03ef",
+        "id": "4f0adf5bcd50f709",
         "type": "tabs",
         "children": [
           {
-            "id": "c45dce8f7b798465",
+            "id": "31871e69121066da",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "linux base.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "linux base"
             }
           }
         ]
@@ -124,12 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "linux base.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "linux base 的大纲"
             }
           },
           {
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "315d97e7049419c9",
+  "active": "31871e69121066da",
   "lastOpenFiles": [
     "基础学习.md",
     "未命名.md",
