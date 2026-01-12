@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55a0c1ebd722f498",
+            "id": "fef61dd90658565c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内核开发notion.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "内核开发notion 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -124,7 +124,7 @@
               "type": "outline",
               "state": {
                 "file": "linux base.md",
-                "followCursor": true,
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -164,14 +164,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "55a0c1ebd722f498",
+  "active": "cc9bdfbd46431de5",
   "lastOpenFiles": [
-    "季度总结.md",
+    "未命名.md",
     "linux base.md",
+    "基础学习.md",
+    "未命名",
+    "季度总结.md",
     "未命名.base",
     "未命名 1.base",
     "未命名看板.md",
-    "基础学习.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/wirless power.md",
     "内核开发notion.md",
