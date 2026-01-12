@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,10 +160,11 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "b3c798141e7b12c8",
+  "active": "315d97e7049419c9",
   "lastOpenFiles": [
     "未命名.md",
     "linux base.md",
