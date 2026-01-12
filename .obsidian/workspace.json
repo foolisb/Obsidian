@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux base.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "linux base"
+              "title": "未命名"
             }
           }
         ]
@@ -166,9 +166,9 @@
   },
   "active": "55a0c1ebd722f498",
   "lastOpenFiles": [
+    "linux base.md",
     "未命名.base",
     "未命名.md",
-    "linux base.md",
     "未命名 1.base",
     "未命名看板.md",
     "基础学习.md",
