@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f5f7b9d7ef06851f",
+        "id": "ba89d77f1bbe0d20",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b9a0789f2419d9",
+            "id": "55a0c1ebd722f498",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "aFile": "未命名.md",
+                "bFile": "未命名.md",
+                "aRef": ""
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "diff",
+              "title": "Diff: 未命名  (Working Tree)"
             }
           }
         ]
@@ -122,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
+                "file": "linux base.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "linux base 的大纲"
             }
           },
           {
@@ -163,12 +164,13 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "c2b9a0789f2419d9",
+  "active": "55a0c1ebd722f498",
   "lastOpenFiles": [
-    "未命名.base",
     "linux base.md",
-    "未命名看板.md",
     "未命名.md",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名看板.md",
     "基础学习.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/wirless power.md",
