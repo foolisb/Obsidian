@@ -143,12 +143,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +163,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31871e69121066da",
+  "active": "b3c798141e7b12c8",
   "lastOpenFiles": [
     "未命名.md",
     "linux base.md",
