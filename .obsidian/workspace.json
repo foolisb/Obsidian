@@ -11,14 +11,14 @@
             "id": "55a0c1ebd722f498",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "未命名.md",
-                "bFile": "未命名.md",
-                "aRef": ""
+                "file": "linux base.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: 未命名  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "linux base"
             }
           }
         ]
@@ -166,9 +166,9 @@
   },
   "active": "55a0c1ebd722f498",
   "lastOpenFiles": [
-    "linux base.md",
-    "未命名.md",
     "未命名.base",
+    "未命名.md",
+    "linux base.md",
     "未命名 1.base",
     "未命名看板.md",
     "基础学习.md",
