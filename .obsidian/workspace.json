@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "linux base"
             }
+          },
+          {
+            "id": "ea71bf097a6255f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocal/TLS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TLS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux base.md",
+                "file": "Protocal/TLS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "linux base 的大纲"
+              "title": "TLS 的大纲"
             }
           },
           {
@@ -164,12 +179,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "cc9bdfbd46431de5",
+  "active": "315d97e7049419c9",
   "lastOpenFiles": [
-    "未命名.md",
+    "Protocal",
+    "Protocal/Pasted image 20260121154801.png",
+    "Protocal/Pasted image 20260121154755.png",
+    "Pasted image 20260121154726.png",
+    "Protocal/TLS.md",
     "linux base.md",
+    "未命名.md",
     "基础学习.md",
-    "未命名",
     "季度总结.md",
     "未命名.base",
     "未命名 1.base",

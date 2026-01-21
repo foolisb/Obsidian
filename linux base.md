@@ -342,7 +342,6 @@ of_property_read_string 的设计：通过传递 const char **out_string，函�
 ##### **查看initramfs内容**
 
 ```bash
-
 `# 提取分析 
 mkdir initramfs 
 cd initramfs 
@@ -356,12 +355,12 @@ zcat /boot/initramfs-$(uname -r).img | cpio -idmv
  ├── etc/           # 配置文件 
  ├── init           # 主启动脚本（最重要！） 
  └── scripts/       # 各阶段脚本`
-​```
+```
 
 ##### **init脚本示例（简化）**
 
 ```bash
-`#!/bin/sh 
+ #!/bin/sh 
  # 挂载虚拟文件系统 
  mount -t proc proc /proc 
  mount -t sysfs sysfs /sys 
@@ -385,7 +384,7 @@ zcat /boot/initramfs-$(uname -r).img | cpio -idmv
 # 挂载真实根文件系统
  mount $ROOT /mnt/root  
 # 切换 
- exec switch_root /mnt/root /sbin/init`
+ exec switch_root /mnt/root /sbin/init
 ```
 
 #### **现代系统的实际实现**
@@ -393,49 +392,55 @@ zcat /boot/initramfs-$(uname -r).img | cpio -idmv
 ##### **1. dracut（RHEL/Fedora/CentOS）**
 ```bash
 
-`# 生成
+ # 生成
  initramfs dracut --force --add-drivers "nvme ext4"  
  # 查看包含的模块 
- lsinitrd /boot/initramfs-*.img | grep -E "nvme|ext4"`
+ lsinitrd /boot/initramfs-*.img | grep -E "nvme|ext4"
 ```
 
 ##### **2. mkinitcpio（Arch Linux）**
 
 ```bash
 
-`# 配置文件：/etc/mkinitcpio.conf MODULES=(nvme ext4) HOOKS=(base udev autodetect modconf block filesystems keyboard fsck)  # 生成 mkinitcpio -p linux`
+# 配置文件：
+/etc/mkinitcpio.conf MODULES=(nvme ext4) HOOKS=(base udev autodetect modconf block filesystems keyboard fsck) 
+# 生成 
+mkinitcpio -p linux
 ```
 
 ##### **3. update-initramfs（Debian/Ubuntu）**
 
 ```bash
-`# 更新 update-initramfs -u -k all  # 查看内容 lsinitramfs /boot/initrd.img-*`
-​
+# 更新 
+update-initramfs -u -k all  
+# 查看内容 
+lsinitramfs /boot/initrd.img-*
 
-## **特殊情况：嵌入式系统**
-
-### **OpenWrt/嵌入式Linux**
 ```
 
+#### **特殊情况：嵌入式系统**
+
+##### **OpenWrt/嵌入式Linux**
+
 ```bash
-`# 经常不需要initramfs，因为： 
+# 经常不需要initramfs，因为： 
 1. 存储简单（NOR/NAND Flash） 
 2. 驱动编译进内核   
 3. 根文件系统固定（squashfs）  
 # 启动参数示例 
-root=/dev/mtdblock2 rootfstype=squashfs`
+root=/dev/mtdblock2 rootfstype=squashfs
 ```
 
 ##### **内存文件系统直接作为根**
 
 ```bash
 
-`# initramfs本身作为最终根文件系统 
+# initramfs本身作为最终根文件系统 
 1. 内核启动 → 解压initramfs 
 2. 执行/init → 启动服务 
 3. 不再切换根（整个系统在内存中）
 # 优点：快速，无磁盘依赖 
-# 缺点：内存消耗大，数据不持久`
+# 缺点：内存消耗大，数据不持久
 ```
 
 #### **总结对比表**
@@ -450,3 +455,25 @@ root=/dev/mtdblock2 rootfstype=squashfs`
 |**现代使用**|已淘汰|主流|仅嵌入式|
 
 **核心原因**：initramfs解决了"鸡生蛋蛋生鸡"的问题——要挂载根文件系统需要驱动，但驱动在根文件系统中。通过提供一个临时的内存中的根文件系统，先加载必要的驱动和工具，再挂载真正的根文件系统。
+
+
+ openssl enc -d -aes-256-cbc -in "/etc/aptl_app/aptl_app_encrypt" 
+-out "/tmp/decrypted.tar" -pass pass:miniwarev2 2>/dev/null
+
+https://idoc.h3c.com/sheets/L9kBMD02BehYJgqK/7j7Hw
+   {
+                    "Server_Name": ["commimg-1.pddpic.com",
+                                    "img-1.pddpic.com",
+                                    "funimg-2.pddpic.com",
+                                    "api.pinduoduo.com"
+                                   ],
+                    "session_dir": "any",
+                    "common": {
+                      "IPver": "IPv4",
+                      "DstIP": "1.1.1.1",
+                      "SrcIp": "",
+                      "protocol": "UDP",
+                      "DstPort": "443",
+                      "SrcPort": ""
+                    }
+                }
