@@ -25,14 +25,12 @@
             "id": "ea71bf097a6255f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Protocal/TLS.md",
-                "mode": "source",
-                "source": true
+                "file": "pon-onu/1769150088719.png"
               },
-              "icon": "lucide-file",
-              "title": "TLS"
+              "icon": "lucide-image",
+              "title": "1769150088719"
             }
           }
         ],
@@ -138,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocal/TLS.md",
+                "file": "pon-onu/1769150088719.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TLS 的大纲"
+              "title": "1769150088719 的大纲"
             }
           },
           {
@@ -179,13 +177,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "315d97e7049419c9",
+  "active": "ea71bf097a6255f8",
   "lastOpenFiles": [
+    "pon-onu/可维护特性.md",
+    "pon-onu/dm4.0.md",
+    "pon-onu/1769150088719.png",
+    "Protocal/TLS.md",
     "Protocal",
     "Protocal/Pasted image 20260121154801.png",
     "Protocal/Pasted image 20260121154755.png",
     "Pasted image 20260121154726.png",
-    "Protocal/TLS.md",
     "linux base.md",
     "未命名.md",
     "基础学习.md",
@@ -197,8 +198,6 @@
     "组内培训/wirless power.md",
     "内核开发notion.md",
     "foundation/JTAG.md",
-    "pon-onu/可维护特性.md",
-    "pon-onu/dm4.0.md",
     "双输入电源升级.md",
     "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md",
     "conflict-files-obsidian-git.md",
