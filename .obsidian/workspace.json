@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux base.md",
+                "file": "pon-onu/可维护特性.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "linux base"
+              "title": "可维护特性"
             }
           },
           {
@@ -33,8 +33,7 @@
               "title": "1769150088719"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pon-onu/1769150088719.png",
+                "file": "pon-onu/可维护特性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1769150088719 的大纲"
+              "title": "可维护特性 的大纲"
             }
           },
           {
@@ -177,17 +176,18 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "ea71bf097a6255f8",
+  "active": "fef61dd90658565c",
   "lastOpenFiles": [
-    "pon-onu/可维护特性.md",
     "pon-onu/dm4.0.md",
+    "pon-onu/可维护特性.md",
     "pon-onu/1769150088719.png",
+    "linux base.md",
+    "pon-onu/企业微信截图_17695814421289.png",
     "Protocal/TLS.md",
     "Protocal",
     "Protocal/Pasted image 20260121154801.png",
     "Protocal/Pasted image 20260121154755.png",
     "Pasted image 20260121154726.png",
-    "linux base.md",
     "未命名.md",
     "基础学习.md",
     "季度总结.md",
