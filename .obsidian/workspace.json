@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "双输入电源升级.md",
+                "file": "季度总结.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "双输入电源升级"
+              "title": "季度总结"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "bc4c1f058b674736",
   "lastOpenFiles": [
-    "未命名.md",
     "双输入电源升级.md",
+    "未命名.md",
     "linux base.md",
     "pon-onu/1769150088719.png",
     "企业微信截图_17722590134729.png",
