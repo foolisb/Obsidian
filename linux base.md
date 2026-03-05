@@ -457,6 +457,3 @@ root=/dev/mtdblock2 rootfstype=squashfs
 **核心原因**：initramfs解决了"鸡生蛋蛋生鸡"的问题——要挂载根文件系统需要驱动，但驱动在根文件系统中。通过提供一个临时的内存中的根文件系统，先加载必要的驱动和工具，再挂载真正的根文件系统。
 
 
- openssl enc -d -aes-256-cbc -in "/etc/aptl_app/aptl_app_encrypt" 
--out "/tmp/decrypted.tar" -pass pass:miniwarev2 2>/dev/null
-
