@@ -460,20 +460,3 @@ root=/dev/mtdblock2 rootfstype=squashfs
  openssl enc -d -aes-256-cbc -in "/etc/aptl_app/aptl_app_encrypt" 
 -out "/tmp/decrypted.tar" -pass pass:miniwarev2 2>/dev/null
 
-https://idoc.h3c.com/sheets/L9kBMD02BehYJgqK/7j7Hw
-   {
-                    "Server_Name": ["commimg-1.pddpic.com",
-                                    "img-1.pddpic.com",
-                                    "funimg-2.pddpic.com",
-                                    "api.pinduoduo.com"
-                                   ],
-                    "session_dir": "any",
-                    "common": {
-                      "IPver": "IPv4",
-                      "DstIP": "1.1.1.1",
-                      "SrcIp": "",
-                      "protocol": "UDP",
-                      "DstPort": "443",
-                      "SrcPort": ""
-                    }
-                }

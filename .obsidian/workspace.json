@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
-                "mode": "preview",
-                "source": true
+                "file": "linux base.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "linux base"
             }
           }
         ]
@@ -166,9 +166,9 @@
   },
   "active": "bc4c1f058b674736",
   "lastOpenFiles": [
+    "未命名.md",
     "季度总结.md",
     "双输入电源升级.md",
-    "未命名.md",
     "linux base.md",
     "pon-onu/1769150088719.png",
     "企业微信截图_17722590134729.png",
