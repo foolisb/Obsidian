@@ -11,14 +11,12 @@
             "id": "bc4c1f058b674736",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "季度总结.md",
-                "mode": "source",
-                "source": true
+                "file": "企业微信截图_17721570866860.png"
               },
-              "icon": "lucide-file",
-              "title": "季度总结"
+              "icon": "lucide-image",
+              "title": "企业微信截图_17721570866860"
             }
           }
         ]
@@ -104,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "企业微信截图_17721570866860.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "企业微信截图_17721570866860 的反向链接列表"
             }
           },
           {
@@ -123,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "企业微信截图_17721570866860.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "企业微信截图_17721570866860 的大纲"
             }
           },
           {
@@ -147,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,22 +159,28 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "bc4c1f058b674736",
+  "active": "315d97e7049419c9",
   "lastOpenFiles": [
-    "内核开发notion.md",
-    "双输入电源升级.md",
-    "未命名.md",
+    "企业微信截图_17722468227788.png",
     "linux base.md",
-    "企业微信截图_17721570866860.png",
+    "AGENTS.md",
+    "模板/季度总结模板.md",
     "季度总结.md",
-    "pon-onu/1769150088719.png",
+    "模板",
+    "内核开发notion.md",
+    "未命名.md",
+    "双输入电源升级.md",
     "企业微信截图_17722590134729.png",
+    "未命名 1.base",
+    "未命名.base",
+    "企业微信截图_17721570866860.png",
+    "pon-onu/1769150088719.png",
     "企业微信截图_17722589837875.png",
     "企业微信截图_17722589119205.png",
-    "企业微信截图_17722468227788.png",
     "pon-onu/可维护特性.md",
     "pon-onu/dm4.0.md",
     "pon-onu/企业微信截图_17695814421289.png",
@@ -186,8 +190,6 @@
     "Protocal/Pasted image 20260121154755.png",
     "Pasted image 20260121154726.png",
     "基础学习.md",
-    "未命名.base",
-    "未命名 1.base",
     "未命名看板.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/wirless power.md",
