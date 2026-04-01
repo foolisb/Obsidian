@@ -11,15 +11,32 @@
             "id": "bc4c1f058b674736",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "企业微信截图_17721570866860.png"
+                "file": "模板/季度总结模板.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "企业微信截图_17721570866860"
+              "icon": "lucide-file",
+              "title": "季度总结模板"
+            }
+          },
+          {
+            "id": "e2015a80fd6e2e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面经.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "面经"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "企业微信截图_17721570866860.png",
+                "file": "面经.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "企业微信截图_17721570866860 的大纲"
+              "title": "面经 的大纲"
             }
           },
           {
@@ -165,19 +182,21 @@
   },
   "active": "315d97e7049419c9",
   "lastOpenFiles": [
-    "企业微信截图_17722468227788.png",
-    "linux base.md",
-    "AGENTS.md",
+    "未命名 1.md",
+    "面经.md",
     "模板/季度总结模板.md",
+    "linux base.md",
     "季度总结.md",
-    "模板",
     "内核开发notion.md",
-    "未命名.md",
+    "基础学习.md",
+    "AGENTS.md",
+    "企业微信截图_17721570866860.png",
+    "企业微信截图_17722468227788.png",
+    "模板",
     "双输入电源升级.md",
     "企业微信截图_17722590134729.png",
     "未命名 1.base",
     "未命名.base",
-    "企业微信截图_17721570866860.png",
     "pon-onu/1769150088719.png",
     "企业微信截图_17722589837875.png",
     "企业微信截图_17722589119205.png",
@@ -189,7 +208,6 @@
     "Protocal/Pasted image 20260121154801.png",
     "Protocal/Pasted image 20260121154755.png",
     "Pasted image 20260121154726.png",
-    "基础学习.md",
     "未命名看板.md",
     "work task/动态调整电源工作计划.md",
     "组内培训/wirless power.md",
