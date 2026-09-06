@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ssd学习/第5章_NAND闪存_重点总结.md",
+                "file": "ssd学习/第8章_PCIe介绍_重点总结.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "第5章_NAND闪存_重点总结"
+              "title": "第8章_PCIe介绍_重点总结"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ssd学习/第5章_NAND闪存_重点总结.md",
+                "file": "ssd学习/第8章_PCIe介绍_重点总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面经.md",
+                "file": "ssd学习/第8章_PCIe介绍_重点总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面经 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -167,26 +167,33 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "315d97e7049419c9",
+  "active": "776144fb55b4b4a3",
   "lastOpenFiles": [
+    "ssd学习/第8章_插图/probe28c.png",
+    "ssd学习/第8章_插图/probe28b.png",
+    "ssd学习/第8章_插图/probe_f.png",
+    "ssd学习/第8章_插图/probe_e.png",
+    "ssd学习/第8章_插图/probe_d.png",
+    "ssd学习/第8章_插图/probe_c.png",
+    "ssd学习/第8章_插图/probe_b.png",
+    "ssd学习/第8章_插图/probe_a.png",
+    "ssd学习/示意图生成与检查规范.md",
+    "ssd学习/第8章_PCIe介绍_重点总结.md",
+    "ssd学习/第7章_ECC原理_重点总结.md",
+    "ssd学习/第8章_插图/probe68.png",
+    "ssd学习/第8章_插图/probe36.png",
+    "ssd学习/第8章_插图/probe28.png",
+    "ssd学习/00-学习目录.md",
+    "ssd学习/tmp_build_concepts.py",
+    "ssd学习/第8章_插图",
+    "ssd学习/MD章节总结生成与检查规范.md",
+    "ssd学习/第7章_插图",
+    "ssd学习/第6章_FTL详解_重点总结.md",
+    "ssd学习/第5章_NAND闪存_重点总结.md",
     "ssd学习/第4章_SSD主控_重点总结.md",
-    "ssd学习/第6章_插图/fig_06_45-p219.png",
-    "ssd学习/第6章_插图/fig_06_39-p213.png",
-    "ssd学习/第6章_插图/fig_06_37-p209.png",
-    "ssd学习/第6章_插图/fig_06_24-p196.png",
-    "ssd学习/第6章_插图/fig_06_18-p191.png",
-    "ssd学习/第6章_插图/fig_06_12-p185.png",
-    "ssd学习/第6章_插图/fig_06_10-p184.png",
-    "ssd学习/第6章_插图/fig_06_09-p183.png",
-    "ssd学习/第6章_插图/fig_06_08-p182.png",
-    "ssd学习/第6章_插图/fig_06_07-p181.png",
     "ssd学习/第6章_插图",
     "ssd学习/第1章_SSD综述_重点总结.md",
-    "ssd学习/第5章_NAND闪存_重点总结.md",
-    "ssd学习/MD章节总结生成与检查规范.md",
-    "ssd学习/示意图生成与检查规范.md",
     "ssd学习/第5章_插图",
-    "ssd学习/00-学习目录.md",
     "ssd学习/第4章_插图",
     "foundation/system()函数.md",
     "ssd学习/第1章_插图",
@@ -204,14 +211,9 @@
     "内核开发notion.md",
     "双输入电源升级.md",
     "未命名 1.md",
-    "模板",
     "pon-onu/可维护特性.md",
     "pon-onu/dm4.0.md",
-    "Protocal",
     "未命名看板.md",
-    "work task/动态调整电源工作计划.md",
-    "组内培训/wirless power.md",
-    "foundation/JTAG.md",
-    "组内培训/以太网基础-MAC和PHY/以太网基础-MAC和PHY.md"
+    "work task/动态调整电源工作计划.md"
   ]
 }
